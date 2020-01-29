@@ -1,3 +1,5 @@
+var _ = requiere('lodash');
+console.log(_);
 
   var css = document.getElementsByTagName("h3")[0];
   var body = document.getElementById("gradient");
